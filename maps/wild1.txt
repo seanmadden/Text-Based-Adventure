@@ -1,0 +1,4 @@
+"5","7","west east","the first room of WILDERNESS","none","town"
+"5","6","east west","the second room of wilderness","orc","none"
+"0","7","","","",""
+"7","0","","","",""
